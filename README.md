@@ -1,1 +1,2 @@
-# yui
+# SMQ
+Exemplary Message Queue
